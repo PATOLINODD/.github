@@ -11,7 +11,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="40"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/>
     </span>
-  </p>JavaScript, TypeScript, Java
+  </p>
 - **Frameworks**:
   <p>
     <span>
@@ -31,6 +31,7 @@
   <p>
     <span>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sequelize/sequelize-original.svg" alt="sequelize" width="40"/>
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnc1qqpvxqbxv58zl3w6f.png" alt="DrizzleORM" widht="40"/>
     </span>
   </p>
 - **Tools**:
