@@ -3,10 +3,36 @@
 🎯 **Full-stack developer** passionate about **backend architecture**, clean code, and turning ☕ into scalable APIs.
 
 ## 🛠️ Technologies & Tools
-- **Languages**: JavaScript, TypeScript, Java
-- **Frameworks**: Express.js, Spring Boot, Quarkus
-- **Frontend**: ReactJS, AngularJS
-- **Databases & ORMs**: Drizzle ORM, Sequelize
+- **Languages**:
+  <p>
+    <span>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/>
+    </span>
+  </p>JavaScript, TypeScript, Java
+- **Frameworks**:
+  <p>
+    <span>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" alt="ExpressJs" width="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="SpringBoot" width="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/quarkus/quarkus-original-wordmark.svg" alt="Quarkus" width="40"/>
+    </span>
+  </p>
+- **Frontend**:
+  <p>
+    <span>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="Angular" width="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="ReactJS" width="40"/>
+    </span>
+  </p>
+- **Databases & ORMs**: Drizzle ORM
+  <p>
+    <span>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sequelize/sequelize-original.svg" alt="sequelize" width="40"/>
+    </span>
+  </p>,
 - **Tools**:
            <p>
             <span>
@@ -39,14 +65,9 @@ A backend project structured using Clean Architecture principles – built to be
 ---
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="Angular" width="40"/>
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/quarkus/quarkus-plain-wordmark.svg" alt="Quarkus" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-plain.svg" alt="JavaScript" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-plain.svg" alt="Json" width="40"/>
           
 </p>
 
