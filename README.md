@@ -27,7 +27,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="ReactJS" width="40"/>
     </span>
   </p>
-- **Databases & ORMs**: Drizzle ORM
+- **Databases & ORMs**:
   <p>
     <span>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sequelize/sequelize-original.svg" alt="sequelize" width="40"/>
