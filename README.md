@@ -14,7 +14,7 @@
 ## 🚀 Featured Project
 ### 🧱 **Clean Architecture Backend**
 A backend project structured using Clean Architecture principles – built to be maintainable, scalable, and super satisfying to work on!  
-👉 _Coming soon: [exam_managin_schedule](https://github.com/PATOLINODD/exam_scheduling_management)
+👉 _Coming soon: [exam_scheduling_management](https://github.com/PATOLINODD/exam_scheduling_management)
 
 ---
 
