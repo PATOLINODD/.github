@@ -32,7 +32,7 @@
     <span>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sequelize/sequelize-original.svg" alt="sequelize" width="40"/>
     </span>
-  </p>,
+  </p>
 - **Tools**:
            <p>
             <span>
@@ -63,13 +63,6 @@ A backend project structured using Clean Architecture principles – built to be
 </div>
 
 ---
-
-<p align="left">
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/quarkus/quarkus-plain-wordmark.svg" alt="Quarkus" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-plain.svg" alt="Json" width="40"/>
-          
-</p>
 
 ⭐ **Thanks for visiting!**  
 If you like what you see, don't forget to leave a star on my projects 🌟
