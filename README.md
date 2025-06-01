@@ -31,7 +31,10 @@ A backend project structured using Clean Architecture principles – built to be
 
 ---
 
-[!](https://img.shields.io/badge/NodeJs-green?logo=nodedotjs)
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="60"/>
+</p>
 
 ⭐ **Thanks for visiting!**  
 If you like what you see, don't forget to leave a star on my projects 🌟
