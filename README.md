@@ -31,7 +31,7 @@ A backend project structured using Clean Architecture principles – built to be
 
 ---
 
-https://img.shields.io/badge/NodeJs-green?logo=nodedotjs
+[nodejs](https://img.shields.io/badge/NodeJs-green?logo=nodedotjs)
 
 ⭐ **Thanks for visiting!**  
 If you like what you see, don't forget to leave a star on my projects 🌟
