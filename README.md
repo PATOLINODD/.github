@@ -7,12 +7,14 @@
 - **Frameworks**: Express.js, Spring Boot, Quarkus
 - **Frontend**: ReactJS, AngularJS
 - **Databases & ORMs**: Drizzle ORM, Sequelize
-- **Tools**: <span>
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" alt="Docker" width="40"/>
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" alt="Maven" width="40"/>
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original.svg" alt="Gradle" width="40"/>
+- **Tools**:
+           <p>
+            <span>
+              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" alt="Docker" width="40"/>
+              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" alt="Maven" width="40"/>
+              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original.svg" alt="Gradle" width="40"/>
             </span>
-- 
+          </p> 
 
 ---
 
