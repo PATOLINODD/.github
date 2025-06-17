@@ -34,3 +34,28 @@ A backend project structured using Clean Architecture principles – built to be
 
 ⭐ **Thanks for visiting!**  
 If you like what you see, don't forget to leave a star on my projects 🌟
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### Documento: Canvas
+- *Título*: [canvas1392555.pdf](https://drive.google.com/file/d/1rXwLQBRJSd7HKRb9YCFsCJKyU5CUE9Fc/view)
+- *Tipo*: PDF
+- *Visualização*:
+  ![Canvas Screenshot](https://service.firecrawl.dev/storage/v1/object/public/media/screenshot-565b2fd7-9766-45d0-bb83-793c0a0c1f0d.png)
