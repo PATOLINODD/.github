@@ -5,7 +5,7 @@
 ## 🛠️ Technologies & Tools
 - **Languages**: Node.js, Java, Javascript, Typescript
 - **Frameworks**: Express.js, Spring Boot, Quarkus
-- **Frontend**: AngularJs, ReactJs
+- **Frontend**: AngularJs, ReactJs, VueJs
 - **Databases & ORMs**: Postgresql, MySql, OracleSql, PLSQL, SQL, MongoDB, supabase, Sequelize, Drizzle ORM
 - **Tools**: Docker, Maven, Gradle
 - **Automations**: N8N
